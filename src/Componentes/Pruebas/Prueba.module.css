@@ -1,0 +1,16 @@
+.pruebaStyle {
+    height: 200px;
+    background: #5e175a;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 0.3em;
+}
+
+.children {
+    padding: 0,3;
+    color: #FFF;
+    background: orange;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 50px;
+}
