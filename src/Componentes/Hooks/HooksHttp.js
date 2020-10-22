@@ -33,7 +33,7 @@ const Header = () => {
 const App = () => {
     const [ users, setUsers ] = useState([])
     const [ isFetching, setFetching ] = useState(true)
-
+    //esto es solo pal git
 
     useEffect(()=> {
         fetch('https://jsonplaceholder.typicode.com/users')
